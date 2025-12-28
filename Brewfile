@@ -67,4 +67,9 @@ mas "CapCut - Video Editor", id: 1500855883
 mas "Xcode", id: 497799835
 mas "Malwarebytes Browser Guard", id: 1577761052
 mas "DaVinci Resolve", id: 571213070
-mas "Bitwarden", id: 1352778147
+mas "Folder Peek", id: 1615988943 # Folder in menu bar
+mas "Pure Paste", id: 1611378436
+mas "Sandkorn", id: 1377973524 # See what your apps can do
+mas "Unsplash Wallpapers", id: 1284863847
+mas "Reeder", id: 6475002485
+
